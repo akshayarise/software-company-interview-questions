@@ -21,7 +21,7 @@ rl.question(`What's your power of the number?\n`, power => {
     console.log("using Math.pow() method")
     console.log(Math.pow(2, power))
 
-    //using exponentiation method
+    //using exponentiation operator
     console.log("using exponentiation method")
     console.log(2 ** power)
 
