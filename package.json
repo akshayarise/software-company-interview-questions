@@ -1,0 +1,24 @@
+{
+  "name": "software-company-interview-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayarise/software-company-interview-questions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshayarise/software-company-interview-questions/issues"
+  },
+  "homepage": "https://github.com/akshayarise/software-company-interview-questions#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
