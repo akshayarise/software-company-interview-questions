@@ -27,8 +27,6 @@ class CountString{
 		
 		al.stream().distinct().forEach(val->System.out.println(val));
 		
-		
-		
 	}
 
 
