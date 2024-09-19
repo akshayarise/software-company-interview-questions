@@ -25,6 +25,8 @@ class CountString{
 		}
 		System.out.println("hm: "+hm);
 		
+		al.stream().distinct().forEach(val->System.out.println(val));
+		
 		
 		
 	}
